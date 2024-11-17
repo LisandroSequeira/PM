@@ -1,3 +1,0 @@
-1 1 Rice Producer 1               3 3 187880 1 1 5
-1 2 Palletizer 1                  8 5 50 2 2 6
-1 3 Charging Station              12 3 0 3 3 4
